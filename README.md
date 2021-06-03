@@ -1,7 +1,8 @@
 ### Mining ERG - AutoLykos
 ##### ERG mining works with 4GB GPU and above (NVidia/AMD)
 
-For ERG wallet we are going to use coinex (trading platform) so we can easily trade it to XRP or USDT and send it your binance for P2P trading.
+For ERG wallet we are going to use [coinex](https://www.coinex.com/register?refer_code=fgt2n) (trading platform) so we can easily trade it to XRP or USDT or any other coins. 
+Store to coinex > Trade on coinex > withdraw to Binance (USDT/XRP) -> Binance P2P
 
 [ERG Wallet](https://www.coinex.com/register?refer_code=fgt2n)
 Minimum ERG deposit: 0.001
@@ -17,15 +18,15 @@ see [Deposit/Withdrawal fee](https://www.coinex.com/fees?type=deposit&refer_code
  5. Copy your ERG wallet deposit address
 ![enter image description here](https://i.imgur.com/YmIXXFA.png)
 
-For mining pool, you can use [nanopool](https://ergo.nanopool.org/)
+For mining pool, you can use [ergo nanopool](https://ergo.nanopool.org/). Default minimum payout is 5 ERG, you can customized this by setting email value on your miner.
 
 ### Hive OS:
 
  1. Create new Flight Sheet
  2. Coin = ERG
- 3. Wallet = Select your wallet or Add Wallet
+ 3. Wallet = Select your wallet or Add Wallet (paste your [coinex ergo wallet](https://www.coinex.com/register?refer_code=fgt2n))
  4. Select mining pool (nanopool)
- 5. Select miner, use Nanominer for nvidia and SRBMiner for AMD
+ 5. Select miner, use Nanominer for nvidia and SRBMiner for AMD. be sure to add your email so you can customized your payout.
  6. and thats it.
 
 
