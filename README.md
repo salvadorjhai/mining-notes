@@ -2,6 +2,7 @@
 ##### ERG mining works with 4GB GPU and above (NVidia/AMD)
 
 For ERG wallet we are going to use [coinex](https://www.coinex.com/register?refer_code=fgt2n) (trading platform) so we can easily trade it to XRP or USDT or any other coins. 
+
 Store to coinex > Trade on coinex > withdraw to Binance (USDT/XRP) -> Binance P2P
 
 [ERG Wallet](https://www.coinex.com/register?refer_code=fgt2n)
